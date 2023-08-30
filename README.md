@@ -14,3 +14,5 @@ docker compose up -d
 5. Correr en modo de desarrollo ```npm run dev```
 
 
+## Notas
+[Repositorio del código](https://github.com/Klerith/node-ts-express-clean)
